@@ -3,11 +3,11 @@
     "pins": [
       {
         "package": "Starscream",
-        "repositoryURL": "https://github.com/daltoniam/Starscream",
+        "repositoryURL": "https://github.com/tikipatel/Starscream",
         "state": {
-          "branch": null,
-          "revision": "ac6c0fc9da221873e01bd1a0d4818498a71eef33",
-          "version": "4.0.6"
+          "branch": "master",
+          "revision": "e8b158bfe3878316ee19f3d9c154d9d5a13224ab",
+          "version": null
         }
       }
     ]
